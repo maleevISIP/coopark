@@ -1,0 +1,7 @@
+C:\Users\vinchi\source\repos\coopark\coopark\bin\Debug\coopark.exe.config
+C:\Users\vinchi\source\repos\coopark\coopark\bin\Debug\coopark.exe
+C:\Users\vinchi\source\repos\coopark\coopark\bin\Debug\coopark.pdb
+C:\Users\vinchi\source\repos\coopark\coopark\obj\Debug\coopark.csprojAssemblyReference.cache
+C:\Users\vinchi\source\repos\coopark\coopark\obj\Debug\coopark.csproj.CoreCompileInputs.cache
+C:\Users\vinchi\source\repos\coopark\coopark\obj\Debug\coopark.exe
+C:\Users\vinchi\source\repos\coopark\coopark\obj\Debug\coopark.pdb
